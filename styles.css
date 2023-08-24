@@ -1,0 +1,16 @@
+h2 {
+    color : black;
+    font-size: 25px;    
+}
+p {
+    color : rgb(1, 13, 25);
+}
+label {
+    color: rgba(210, 30, 132, 0.985);
+}
+input {
+    color : black;
+}
+option {
+    color :blueviolet;
+}
