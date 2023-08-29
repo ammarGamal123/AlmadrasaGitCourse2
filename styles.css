@@ -1,16 +1,23 @@
-h2 {
-    color : black;
-    font-size: 25px;    
+p.colorMe {
+    color: rgb(24, 24, 207);
+    font-size: 20px;
 }
-p {
-    color : rgb(1, 13, 25);
+h2.editName {
+    color: rgb(27, 125, 125);
 }
-label {
-    color: rgba(210, 30, 132, 0.985);
+p.studying{
+    color:blueviolet;
 }
-input {
-    color : black;
+a[href = "index.html"] {
+    font-size: 25px;
+    background-color:rgb(53, 100, 7) ;
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    
 }
-option {
-    color :blueviolet;
+div .Work {
+    border:3px solid rgb(47, 78, 1);
+    font-size: 25px;
 }
