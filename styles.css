@@ -1,4 +1,4 @@
-p.colorMe {
+/* p.colorMe {
     color: rgb(24, 24, 207);
     font-size: 20px;
 }
@@ -15,9 +15,22 @@ a[href = "index.html"] {
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
-    
+
 }
 div .Work {
     border:3px solid rgb(47, 78, 1);
     font-size: 25px;
+} */
+
+div {
+    color : blueviolet;
+    font-size:22px;
+    border:6px solid black;
+    margin: 20px;
+    font-weight: bold;
+}
+p {
+    border: inherit;
+    margin: inherit;
+    color:crimson
 }
