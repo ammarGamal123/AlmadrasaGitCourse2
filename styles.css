@@ -1,4 +1,4 @@
-/* p.colorMe {
+ p.colorMe {
     color: rgb(24, 24, 207);
     font-size: 20px;
 }
@@ -20,7 +20,7 @@ a[href = "index.html"] {
 div .Work {
     border:3px solid rgb(47, 78, 1);
     font-size: 25px;
-} */
+} 
 
 div {
     color : blueviolet;
